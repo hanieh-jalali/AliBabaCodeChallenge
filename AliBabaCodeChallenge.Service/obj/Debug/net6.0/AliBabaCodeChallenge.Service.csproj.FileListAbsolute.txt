@@ -1,0 +1,34 @@
+D:\Programming contents\Projects\Dotnet Core\Ali Baba Code Challenge\AliBabaCodeChallenge.Service\bin\Debug\net6.0\AliBabaCodeChallenge.Service.deps.json
+D:\Programming contents\Projects\Dotnet Core\Ali Baba Code Challenge\AliBabaCodeChallenge.Service\bin\Debug\net6.0\AliBabaCodeChallenge.Service.dll
+D:\Programming contents\Projects\Dotnet Core\Ali Baba Code Challenge\AliBabaCodeChallenge.Service\bin\Debug\net6.0\ref\AliBabaCodeChallenge.Service.dll
+D:\Programming contents\Projects\Dotnet Core\Ali Baba Code Challenge\AliBabaCodeChallenge.Service\bin\Debug\net6.0\AliBabaCodeChallenge.Service.pdb
+D:\Programming contents\Projects\Dotnet Core\Ali Baba Code Challenge\AliBabaCodeChallenge.Service\obj\Debug\net6.0\AliBabaCodeChallenge.Service.csproj.AssemblyReference.cache
+D:\Programming contents\Projects\Dotnet Core\Ali Baba Code Challenge\AliBabaCodeChallenge.Service\obj\Debug\net6.0\AliBabaCodeChallenge.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming contents\Projects\Dotnet Core\Ali Baba Code Challenge\AliBabaCodeChallenge.Service\obj\Debug\net6.0\AliBabaCodeChallenge.Service.AssemblyInfoInputs.cache
+D:\Programming contents\Projects\Dotnet Core\Ali Baba Code Challenge\AliBabaCodeChallenge.Service\obj\Debug\net6.0\AliBabaCodeChallenge.Service.AssemblyInfo.cs
+D:\Programming contents\Projects\Dotnet Core\Ali Baba Code Challenge\AliBabaCodeChallenge.Service\obj\Debug\net6.0\AliBabaCodeChallenge.Service.csproj.CoreCompileInputs.cache
+D:\Programming contents\Projects\Dotnet Core\Ali Baba Code Challenge\AliBabaCodeChallenge.Service\obj\Debug\net6.0\AliBabaCodeChallenge.Service.dll
+D:\Programming contents\Projects\Dotnet Core\Ali Baba Code Challenge\AliBabaCodeChallenge.Service\obj\Debug\net6.0\ref\AliBabaCodeChallenge.Service.dll
+D:\Programming contents\Projects\Dotnet Core\Ali Baba Code Challenge\AliBabaCodeChallenge.Service\obj\Debug\net6.0\AliBabaCodeChallenge.Service.pdb
+D:\Programming contents\Projects\Dotnet Core\Ali Baba Code Challenge\AliBabaCodeChallenge.Service\bin\Debug\net6.0\AliBabaCodeChallenge.Domain.dll
+D:\Programming contents\Projects\Dotnet Core\Ali Baba Code Challenge\AliBabaCodeChallenge.Service\bin\Debug\net6.0\AliBabaCodeChallenge.Repository.dll
+D:\Programming contents\Projects\Dotnet Core\Ali Baba Code Challenge\AliBabaCodeChallenge.Service\bin\Debug\net6.0\AliBabaCodeChallenge.Repository.pdb
+D:\Programming contents\Projects\Dotnet Core\Ali Baba Code Challenge\AliBabaCodeChallenge.Service\bin\Debug\net6.0\AliBabaCodeChallenge.Domain.pdb
+D:\Programming contents\Projects\Dotnet Core\Ali Baba Code Challenge\AliBabaCodeChallenge.Service\obj\Debug\net6.0\AliBabaCodeChallenge.Service.csproj.CopyComplete
+C:\Users\user\Desktop\Ali Baba Code Challenge\AliBabaCodeChallenge.Service\bin\Debug\net6.0\AliBabaCodeChallenge.Service.deps.json
+C:\Users\user\Desktop\Ali Baba Code Challenge\AliBabaCodeChallenge.Service\bin\Debug\net6.0\AliBabaCodeChallenge.Service.dll
+C:\Users\user\Desktop\Ali Baba Code Challenge\AliBabaCodeChallenge.Service\bin\Debug\net6.0\AliBabaCodeChallenge.Service.pdb
+C:\Users\user\Desktop\Ali Baba Code Challenge\AliBabaCodeChallenge.Service\bin\Debug\net6.0\AliBabaCodeChallenge.Domain.dll
+C:\Users\user\Desktop\Ali Baba Code Challenge\AliBabaCodeChallenge.Service\bin\Debug\net6.0\AliBabaCodeChallenge.Repository.dll
+C:\Users\user\Desktop\Ali Baba Code Challenge\AliBabaCodeChallenge.Service\bin\Debug\net6.0\AliBabaCodeChallenge.Repository.pdb
+C:\Users\user\Desktop\Ali Baba Code Challenge\AliBabaCodeChallenge.Service\bin\Debug\net6.0\AliBabaCodeChallenge.Domain.pdb
+C:\Users\user\Desktop\Ali Baba Code Challenge\AliBabaCodeChallenge.Service\obj\Debug\net6.0\AliBabaCodeChallenge.Service.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Ali Baba Code Challenge\AliBabaCodeChallenge.Service\obj\Debug\net6.0\AliBabaCodeChallenge.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Ali Baba Code Challenge\AliBabaCodeChallenge.Service\obj\Debug\net6.0\AliBabaCodeChallenge.Service.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Ali Baba Code Challenge\AliBabaCodeChallenge.Service\obj\Debug\net6.0\AliBabaCodeChallenge.Service.AssemblyInfo.cs
+C:\Users\user\Desktop\Ali Baba Code Challenge\AliBabaCodeChallenge.Service\obj\Debug\net6.0\AliBabaCodeChallenge.Service.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Ali Baba Code Challenge\AliBabaCodeChallenge.Service\obj\Debug\net6.0\AliBabaCodeChallenge.Service.csproj.CopyComplete
+C:\Users\user\Desktop\Ali Baba Code Challenge\AliBabaCodeChallenge.Service\obj\Debug\net6.0\AliBabaCodeChallenge.Service.dll
+C:\Users\user\Desktop\Ali Baba Code Challenge\AliBabaCodeChallenge.Service\obj\Debug\net6.0\refint\AliBabaCodeChallenge.Service.dll
+C:\Users\user\Desktop\Ali Baba Code Challenge\AliBabaCodeChallenge.Service\obj\Debug\net6.0\AliBabaCodeChallenge.Service.pdb
+C:\Users\user\Desktop\Ali Baba Code Challenge\AliBabaCodeChallenge.Service\obj\Debug\net6.0\ref\AliBabaCodeChallenge.Service.dll
