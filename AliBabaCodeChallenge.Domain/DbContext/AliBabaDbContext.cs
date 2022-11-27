@@ -35,6 +35,17 @@ namespace AliBabaCodeChallenge.Domain
             modelBuilder.Entity<ContactPhoneNumber>()
                         .HasOne(h => h.ContactPhoneNumberType)
                         .WithMany(c => c.ContactPhoneNumber);
+
+            modelBuilder.Entity<ContactAddressType>()
+            .HasData(new ContactAddressType() { Id = 1, Description = "منزل" }
+                    , new ContactAddressType() { Id = 2, Description = "اداره" }
+                    , new ContactAddressType() { Id = 3, Description = "شرکت" });
+
+            modelBuilder.Entity<ContactAddressType>()
+            .HasData(new ContactAddressType() { Id = 1, Description = "ثابت" }
+                    , new ContactAddressType() { Id = 2, Description = "همراه" }
+                    , new ContactAddressType() { Id = 3, Description = "محل کار" });
+
         }
     }
 }
