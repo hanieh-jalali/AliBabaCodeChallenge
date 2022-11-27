@@ -41,10 +41,10 @@ namespace AliBabaCodeChallenge.Domain
                     , new ContactAddressType() { Id = 2, Description = "اداره" }
                     , new ContactAddressType() { Id = 3, Description = "شرکت" });
 
-            modelBuilder.Entity<ContactAddressType>()
-            .HasData(new ContactAddressType() { Id = 1, Description = "ثابت" }
-                    , new ContactAddressType() { Id = 2, Description = "همراه" }
-                    , new ContactAddressType() { Id = 3, Description = "محل کار" });
+            modelBuilder.Entity<ContactPhoneNumberType>()
+            .HasData(new ContactPhoneNumberType() { Id = 1, Description = "ثابت" }
+                    , new ContactPhoneNumberType() { Id = 2, Description = "همراه" }
+                    , new ContactPhoneNumberType() { Id = 3, Description = "محل کار" });
 
         }
     }
